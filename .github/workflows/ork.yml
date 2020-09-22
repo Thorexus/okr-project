@@ -13,4 +13,4 @@ jobs:
           persist-credentials: false
       - name: Build
         run: |
-          dir
+          gcloud
