@@ -1,0 +1,130 @@
+[2020-09-25 10:51:04Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2020-09-25 10:51:04Z INFO HostContext] Well known directory 'Bin': '/home/watcharaphan/okr_project/okr-project/actions-runner/bin'
+[2020-09-25 10:51:04Z INFO HostContext] Well known directory 'Root': '/home/watcharaphan/okr_project/okr-project/actions-runner'
+[2020-09-25 10:51:04Z INFO HostContext] Well known config file 'Credentials': '/home/watcharaphan/okr_project/okr-project/actions-runner/.credentials'
+[2020-09-25 10:51:04Z INFO Listener] Runner is built for Linux (X64) - linux-x64.
+[2020-09-25 10:51:04Z INFO Listener] RuntimeInformation: Linux 4.19.128-microsoft-standard #1 SMP Tue Jun 23 12:58:10 UTC 2020.
+[2020-09-25 10:51:04Z INFO Listener] Version: 2.273.4
+[2020-09-25 10:51:04Z INFO Listener] Commit: 24845a5a01cd29ddf6038c8c5bfd1b91552fb685
+[2020-09-25 10:51:04Z INFO Listener] Culture: 
+[2020-09-25 10:51:04Z INFO Listener] UI Culture: 
+[2020-09-25 10:51:04Z INFO HostContext] Well known directory 'Bin': '/home/watcharaphan/okr_project/okr-project/actions-runner/bin'
+[2020-09-25 10:51:04Z INFO HostContext] Well known directory 'Root': '/home/watcharaphan/okr_project/okr-project/actions-runner'
+[2020-09-25 10:51:04Z INFO Listener] Validating directory permissions for: '/home/watcharaphan/okr_project/okr-project/actions-runner'
+[2020-09-25 10:51:04Z INFO CommandLineParser] Parse
+[2020-09-25 10:51:04Z INFO CommandLineParser] Parsing 1 args
+[2020-09-25 10:51:04Z INFO CommandLineParser] parsing argument
+[2020-09-25 10:51:04Z INFO CommandLineParser] HasArgs: False
+[2020-09-25 10:51:04Z INFO CommandLineParser] Adding Command: run
+[2020-09-25 10:51:04Z INFO Listener] Arguments parsed
+[2020-09-25 10:51:04Z INFO Runner] ExecuteCommand
+[2020-09-25 10:51:04Z INFO ConfigurationStore] currentAssemblyLocation: /home/watcharaphan/okr_project/okr-project/actions-runner/bin/Runner.Listener.dll
+[2020-09-25 10:51:04Z INFO HostContext] Well known directory 'Bin': '/home/watcharaphan/okr_project/okr-project/actions-runner/bin'
+[2020-09-25 10:51:04Z INFO ConfigurationStore] binPath: /home/watcharaphan/okr_project/okr-project/actions-runner/bin
+[2020-09-25 10:51:04Z INFO HostContext] Well known directory 'Bin': '/home/watcharaphan/okr_project/okr-project/actions-runner/bin'
+[2020-09-25 10:51:04Z INFO HostContext] Well known directory 'Root': '/home/watcharaphan/okr_project/okr-project/actions-runner'
+[2020-09-25 10:51:04Z INFO ConfigurationStore] RootFolder: /home/watcharaphan/okr_project/okr-project/actions-runner
+[2020-09-25 10:51:04Z INFO HostContext] Well known directory 'Bin': '/home/watcharaphan/okr_project/okr-project/actions-runner/bin'
+[2020-09-25 10:51:04Z INFO HostContext] Well known directory 'Root': '/home/watcharaphan/okr_project/okr-project/actions-runner'
+[2020-09-25 10:51:04Z INFO HostContext] Well known config file 'Runner': '/home/watcharaphan/okr_project/okr-project/actions-runner/.runner'
+[2020-09-25 10:51:04Z INFO ConfigurationStore] ConfigFilePath: /home/watcharaphan/okr_project/okr-project/actions-runner/.runner
+[2020-09-25 10:51:04Z INFO HostContext] Well known directory 'Bin': '/home/watcharaphan/okr_project/okr-project/actions-runner/bin'
+[2020-09-25 10:51:04Z INFO HostContext] Well known directory 'Root': '/home/watcharaphan/okr_project/okr-project/actions-runner'
+[2020-09-25 10:51:04Z INFO HostContext] Well known config file 'Credentials': '/home/watcharaphan/okr_project/okr-project/actions-runner/.credentials'
+[2020-09-25 10:51:04Z INFO ConfigurationStore] CredFilePath: /home/watcharaphan/okr_project/okr-project/actions-runner/.credentials
+[2020-09-25 10:51:04Z INFO HostContext] Well known directory 'Bin': '/home/watcharaphan/okr_project/okr-project/actions-runner/bin'
+[2020-09-25 10:51:04Z INFO HostContext] Well known directory 'Root': '/home/watcharaphan/okr_project/okr-project/actions-runner'
+[2020-09-25 10:51:04Z INFO HostContext] Well known config file 'MigratedCredentials': '/home/watcharaphan/okr_project/okr-project/actions-runner/.credentials_migrated'
+[2020-09-25 10:51:04Z INFO ConfigurationStore] MigratedCredFilePath: /home/watcharaphan/okr_project/okr-project/actions-runner/.credentials_migrated
+[2020-09-25 10:51:04Z INFO HostContext] Well known directory 'Bin': '/home/watcharaphan/okr_project/okr-project/actions-runner/bin'
+[2020-09-25 10:51:04Z INFO HostContext] Well known directory 'Root': '/home/watcharaphan/okr_project/okr-project/actions-runner'
+[2020-09-25 10:51:04Z INFO HostContext] Well known config file 'Service': '/home/watcharaphan/okr_project/okr-project/actions-runner/.service'
+[2020-09-25 10:51:04Z INFO ConfigurationStore] ServiceConfigFilePath: /home/watcharaphan/okr_project/okr-project/actions-runner/.service
+[2020-09-25 10:51:04Z INFO CommandSettings] Flag 'help': 'False'
+[2020-09-25 10:51:04Z INFO CommandSettings] Flag 'version': 'False'
+[2020-09-25 10:51:04Z INFO CommandSettings] Flag 'commit': 'False'
+[2020-09-25 10:51:04Z INFO CommandSettings] Command 'configure': 'False'
+[2020-09-25 10:51:04Z INFO CommandSettings] Command 'remove': 'False'
+[2020-09-25 10:51:04Z INFO CommandSettings] Command 'warmup': 'False'
+[2020-09-25 10:51:04Z INFO ConfigurationManager] LoadSettings
+[2020-09-25 10:51:04Z INFO ConfigurationStore] IsConfigured()
+[2020-09-25 10:51:04Z INFO ConfigurationStore] IsConfigured: True
+[2020-09-25 10:51:04Z INFO ConfigurationManager] Is configured: True
+[2020-09-25 10:51:04Z INFO ConfigurationStore] Read setting file: 296 chars
+[2020-09-25 10:51:04Z INFO ConfigurationManager] Settings Loaded
+[2020-09-25 10:51:04Z INFO ConfigurationStore] IsServiceConfigured()
+[2020-09-25 10:51:04Z INFO ConfigurationStore] IsServiceConfigured: False
+[2020-09-25 10:51:04Z INFO CommandSettings] Command 'run': 'True'
+[2020-09-25 10:51:04Z INFO ConfigurationStore] IsConfigured()
+[2020-09-25 10:51:04Z INFO ConfigurationStore] IsConfigured: True
+[2020-09-25 10:51:04Z INFO ConfigurationManager] Is configured: True
+[2020-09-25 10:51:04Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2020-09-25 10:51:04Z INFO Runner] Set runner startup type - Manual
+[2020-09-25 10:51:04Z INFO CommandSettings] Flag 'once': 'False'
+[2020-09-25 10:51:04Z INFO Runner] RunAsync
+[2020-09-25 10:51:04Z INFO ConfigurationManager] LoadSettings
+[2020-09-25 10:51:04Z INFO ConfigurationStore] IsConfigured()
+[2020-09-25 10:51:04Z INFO ConfigurationStore] IsConfigured: True
+[2020-09-25 10:51:04Z INFO ConfigurationManager] Is configured: True
+[2020-09-25 10:51:04Z INFO ConfigurationManager] Settings Loaded
+[2020-09-25 10:51:04Z INFO MessageListener] {
+  "AgentId": 22,
+  "AgentName": "okr_project",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelines.actions.githubusercontent.com/5Ir2CHMi2UZixbFOphZkgIc74cJKdtwKy9emKADJAS87AhXihH",
+  "GitHubUrl": "https://github.com/Thorexus/okr-project",
+  "WorkFolder": "okr_run_work"
+}
+[2020-09-25 10:51:04Z INFO MessageListener] Loading Credentials
+[2020-09-25 10:51:04Z INFO ConfigurationStore] HasCredentials()
+[2020-09-25 10:51:04Z INFO ConfigurationStore] stored True
+[2020-09-25 10:51:04Z INFO CredentialManager] GetCredentialProvider
+[2020-09-25 10:51:04Z INFO CredentialManager] Creating type OAuth
+[2020-09-25 10:51:04Z INFO CredentialManager] Creating credential type: OAuth
+[2020-09-25 10:51:04Z INFO HostContext] Well known directory 'Bin': '/home/watcharaphan/okr_project/okr-project/actions-runner/bin'
+[2020-09-25 10:51:04Z INFO HostContext] Well known directory 'Root': '/home/watcharaphan/okr_project/okr-project/actions-runner'
+[2020-09-25 10:51:04Z INFO HostContext] Well known config file 'RSACredentials': '/home/watcharaphan/okr_project/okr-project/actions-runner/.credentials_rsaparams'
+[2020-09-25 10:51:04Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/watcharaphan/okr_project/okr-project/actions-runner/.credentials_rsaparams
+[2020-09-25 10:51:04Z INFO MessageListener] Attempt to create session.
+[2020-09-25 10:51:04Z INFO MessageListener] Connecting to the Runner Server...
+[2020-09-25 10:51:04Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2020-09-25 10:51:04Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2020-09-25 10:51:04Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2020-09-25 10:51:04Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2020-09-25 10:51:04Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2020-09-25 10:51:04Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2020-09-25 10:51:04Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2020-09-25 10:51:05Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2020-09-25 10:51:05Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2020-09-25 10:51:06Z INFO MessageListener] VssConnection created
+[2020-09-25 10:51:06Z INFO Terminal] WRITE LINE: 
+[2020-09-25 10:51:06Z INFO Terminal] WRITE LINE: 
+[2020-09-25 10:51:06Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: b06e0b5a-667e-4392-9301-f67d0b58bb6e
+ActivityId: b3ed2b54-534e-4ef5-9deb-8fa471ac2f7b
+X-TFS-Session: 846070d5-04ba-4f6e-b5bf-22fb225a3ef9
+X-VSS-E2EID: 851ddd85-5185-4e36-9c04-ce2dc52ce934
+X-VSS-SenderDeploymentId: a07ab14e-025a-39c3-8d53-788cd7ce207f
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-MSEdge-Ref: Ref A: 378CD7D9AECE40BCB9D59F8AF0A2D221 Ref B: KUL30EDGE0209 Ref C: 2020-09-25T10:51:07Z
+Date: Fri, 25 Sep 2020 10:51:06 GMT
+
+[2020-09-25 10:51:06Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/watcharaphan/okr_project/okr-project/actions-runner/.credentials_rsaparams
+[2020-09-25 10:51:06Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/watcharaphan/okr_project/okr-project/actions-runner/.credentials_rsaparams
+[2020-09-25 10:51:07Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2020-09-25 10:51:08Z INFO MessageListener] Session created.
+[2020-09-25 10:51:08Z INFO Terminal] WRITE LINE: 2020-09-25 10:51:08Z: Listening for Jobs
+[2020-09-25 10:51:08Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2020-09-25 10:52:40Z INFO Terminal] WRITE LINE: Exiting...
+[2020-09-25 10:52:40Z INFO ConfigurationStore] IsServiceConfigured()
+[2020-09-25 10:52:40Z INFO ConfigurationStore] IsServiceConfigured: False
+[2020-09-25 10:52:40Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2020-09-25 10:52:40Z WARN GitHubActionsService] GET request to https://pipelines.actions.githubusercontent.com/5Ir2CHMi2UZixbFOphZkgIc74cJKdtwKy9emKADJAS87AhXihH/_apis/distributedtask/pools/1/messages?sessionId=80caf249-d4df-4a6e-99b3-43de876007df has been cancelled.
+[2020-09-25 10:52:40Z INFO MessageListener] Get next message has been cancelled.
+[2020-09-25 10:52:40Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2020-09-25 10:52:41Z INFO Listener] Runner execution been cancelled.

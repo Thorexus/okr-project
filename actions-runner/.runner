@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 22,
+  "agentName": "okr_project",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/5Ir2CHMi2UZixbFOphZkgIc74cJKdtwKy9emKADJAS87AhXihH",
+  "gitHubUrl": "https://github.com/Thorexus/okr-project",
+  "workFolder": "okr_run_work"
+}
