@@ -4,8 +4,6 @@ on:
     branches:
       - master
 jobs:
-  deploy:
-    runs-on: self-hosted
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -13,4 +11,4 @@ jobs:
           persist-credentials: false
       - name: run
         run: |
-          ls
+          docker build . -t test
